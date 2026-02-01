@@ -1,6 +1,4 @@
 const API_BASE_URL = "http://localhost:5000/api";
-
-// example placeholder
 export const fetchShelters = async () => {
   return [
     {
